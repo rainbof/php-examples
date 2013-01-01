@@ -1,0 +1,6 @@
+<?
+
+//classic phpinfo :D
+phpinfo();
+
+?>
